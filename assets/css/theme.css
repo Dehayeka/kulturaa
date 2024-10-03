@@ -4876,7 +4876,7 @@ body.pi-full-on:not(.page-header-on) .portfolio-interactive-ghost {
   min-height: 90vh;
   left: 0;
   width: 50%;
-  padding: 270px 3% 100px 17%;
+  padding: 50px 3% 100px 17%;
 }
 @media (max-width: 1400px) {
   .portfolio-split-list {
